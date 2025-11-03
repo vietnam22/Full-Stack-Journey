@@ -1,5 +1,6 @@
 /*
-This is a program that prints numbers from 1 to 100, however, if a number is divisible by both 3 and 5 it prints fizzbuzz.
+This is a program that prints numbers from 1 to 100, however, 
+if a number is divisible by both 3 and 5 it prints fizzbuzz.
 Similarly, if the number is just divisible by 3 it prints fizz, and if it is just divisible by 5 it prints buzz. 
 */
 
